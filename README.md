@@ -1,4 +1,2 @@
 # ComicReader
-Simple offline comic reader.  
-
-[Start to read!](https://dragonwhisperer.github.io/ComicReader)
+Moved to: https://github.com/WiseRead/wiseread.github.io
