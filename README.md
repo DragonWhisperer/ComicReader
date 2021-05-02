@@ -1,2 +1,2 @@
 # ComicReader
-Moved to: https://github.com/WiseRead/wiseread.github.io
+Moved to: https://github.com/WiseRead/WiseRead
